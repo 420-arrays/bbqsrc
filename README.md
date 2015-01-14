@@ -1,2 +1,3 @@
 # bbqsrc
-420 arrays' BBQ src redo
+
+BBQ Source redo by 420-arrays using [Sails](http://sailsjs.org).
